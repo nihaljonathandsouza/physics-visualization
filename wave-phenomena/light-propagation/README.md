@@ -1,35 +1,34 @@
-# Light Propagation: From Spherical Waves to Refraction
+# Light Propagation
 
-A Manim-based visualization following the propagation of light from a point source through diffraction, reflection, and refraction.
-
-## Overview
-
-This animation follows a wavefront as it propagates from a point source. It begins with expanding spherical wavefronts and shows how a sufficiently distant wavefront can be approximated as a plane wave.
-
-The plane wave then encounters a narrow slit, illustrating diffraction and Huygens' principle before propagating toward a mirror and subsequently entering and exiting a glass medium.
+A Manim-based visualization of light propagation from a point source and the transition from spherical wavefronts to an approximately plane wave.
 
 ## Concepts Visualized
 
-* Spherical wavefronts from a point source
-* Approximation of a spherical wave as a plane wave
-* Huygens' principle
-* Diffraction through a slit
-* Reflection from a plane mirror
-* Refraction at a glass interface
-* Reduction of wave velocity and wavelength in a denser medium
-* Lateral displacement after emerging from a parallel-sided medium
+- Point source of light
+- Spherical wavefronts
+- Propagation of wavefronts
+- Wavefront spacing
+- Spherical-to-plane wave approximation
+- Huygens' principle
+
+## Overview
+
+The animation begins with light propagating from a point source, producing expanding spherical wavefronts.
+
+As the wavefronts move farther from the source, the animation demonstrates how a small region of a spherical wavefront can be approximated as a plane wave.
+
+The visualization then introduces Huygens' principle by representing the propagation of a wavefront using secondary wavelets.
+
+## Teaching Focus
+
+The animation provides a geometric way to visualize wave propagation and helps connect the idea of spherical wavefronts from a point source to the plane-wave approximation commonly used in optics.
 
 ## Implementation
 
 **Software:** Python, Manim Community Edition
 
-The animation uses custom mathematical functions to calculate the position of the propagating wavefront through multiple stages of the optical system. Dynamic wavefront generation, camera movement, and timed transformations are used to create the continuous propagation sequence.
+The animation was constructed programmatically using wavefront geometry, mathematical positioning, animated propagation, and camera movement.
 
-## Preview
+## Visualization
 
-The rendered animation is included in this directory.
-
-## Note
-
-This is a conceptual visualization designed to communicate wave and geometrical-optics principles. The geometry is constructed for visualization rather than as a full electromagnetic wave simulation.
-
+[▶ Watch the animation](https://drive.google.com/file/d/1VNzmuD5QbLzhr8FuaR2fLjaS3QOAze9C/view?usp=sharing)

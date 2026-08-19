@@ -44,9 +44,9 @@ $$
 
 The scene uses dynamic trackers and continuously updated geometric objects to recalculate the ray paths, angles, velocity, and lateral displacement as the refractive index changes.
 
-## Preview
+## Visualization
 
-The rendered animation is included in this directory.
+[▶ Watch the animation](https://drive.google.com/file/d/11RM37APisURD3mA6m3hYun-VM7dP2HPt/view?usp=sharing)
 
 ## Note
 

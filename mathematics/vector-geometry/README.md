@@ -19,39 +19,39 @@ A Manim-based visualization of vector geometry, covering vector components, magn
 For a vector
 
 $$
-\vec A = A_x\hat{i}+A_y\hat{j},
+\vec{A} = A_x\hat{i} + A_y\hat{j}
 $$
 
 its magnitude is
 
 $$
-|\vec A|=\sqrt{A_x^2+A_y^2}.
+|\vec{A}| = \sqrt{A_x^2 + A_y^2}
 $$
 
 The dot product between two vectors is
 
 $$
-\vec A\cdot\vec B
-=
-|\vec A||\vec B|\cos\theta.
+\vec{A} \cdot \vec{B} = |\vec{A}| |\vec{B}| \cos\theta
 $$
 
 Geometrically, the dot product is related to the projection of one vector onto another.
 
 For perpendicular vectors,
+
 $$
-\theta=90^\circ
+\theta = 90^\circ
 $$
 
 and therefore
+
 $$
-\vec A\cdot\vec B=0.
+\vec{A} \cdot \vec{B} = 0
 $$
 
 The cross product is visualized in three dimensions as
 
 $$
-\vec A\times\vec B,
+\vec{A} \times \vec{B}
 $$
 
 producing a vector perpendicular to both input vectors.

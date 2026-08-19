@@ -23,9 +23,11 @@ The animation was constructed programmatically using Manim's geometric primitive
 
 ## Preview
 
+
 The rendered animation is included in this directory.
 
 ## Note
 
 This is a conceptual physics visualization and is intended to illustrate the optical principles of myopia correction rather than serve as a clinical eye model.
 
+[Watch the animation](https://drive.google.com/file/d/1A1qHP0cf9CfCg6MgBI7czMvjKLZlw5HE/view?usp=sharing)

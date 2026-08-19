@@ -17,13 +17,13 @@ A Manim-based visualization of matrices as geometric transformations rather than
 
 For a transformation
 
-\[
+$$
 A =
 \begin{pmatrix}
 a & b \\
 c & d
 \end{pmatrix},
-\]
+$$
 
 the determinant is
 

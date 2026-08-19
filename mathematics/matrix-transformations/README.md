@@ -57,4 +57,4 @@ The final section introduces the connection between these transformations and ra
 
 ## Visualization
 
-[Watch the animation]([./matrix-transformations.mp4](https://drive.google.com/file/d/1m6PwDFp1tYtEnNr0fzGwWuNS_iRHSlZF/view?usp=sharing))
+[Watch the animation](https://drive.google.com/file/d/1m6PwDFp1tYtEnNr0fzGwWuNS_iRHSlZF/view?usp=sharing)

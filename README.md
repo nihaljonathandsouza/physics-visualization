@@ -14,7 +14,7 @@ The animations are designed with an emphasis on **conceptual clarity, mathematic
 
 Visualization of matrices as geometric transformations, including basis vectors, scaling, rotation, determinants, inverse transformations, and connections to optical systems.
 
-**[▶ Watch Animation](YOUR_GOOGLE_DRIVE_LINK)**
+**[▶ Watch Animation](https://drive.google.com/file/d/1m6PwDFp1tYtEnNr0fzGwWuNS_iRHSlZF/view?usp=drive_link)**
 
 ---
 
@@ -22,7 +22,7 @@ Visualization of matrices as geometric transformations, including basis vectors,
 
 Visualization of vector components, magnitude, dot products, projections, orthogonality, and the cross product in three dimensions.
 
-**[▶ Watch Animation](YOUR_GOOGLE_DRIVE_LINK)**
+**[▶ Watch Animation](https://drive.google.com/file/d/1a1kOikJf-yQDKQJJOefM5NsDa-9ke-Yy/view?usp=drive_link)**
 
 ---
 
@@ -32,7 +32,7 @@ Visualization of vector components, magnitude, dot products, projections, orthog
 
 Visualization of image formation in a myopic eye and its correction using a concave lens.
 
-**[▶ Watch Animation](YOUR_GOOGLE_DRIVE_LINK)**
+**[▶ Watch Animation](https://drive.google.com/file/d/1A1qHP0cf9CfCg6MgBI7czMvjKLZlw5HE/view?usp=drive_link)**
 
 ---
 
@@ -40,7 +40,7 @@ Visualization of image formation in a myopic eye and its correction using a conc
 
 Visualization of refraction through a parallel-sided slab, including Snell's law, refracted angles, light velocity, and lateral displacement.
 
-**[▶ Watch Animation](YOUR_GOOGLE_DRIVE_LINK)**
+**[▶ Watch Animation](https://drive.google.com/file/d/11RM37APisURD3mA6m3hYun-VM7dP2HPt/view?usp=drive_link)**
 
 ---
 
@@ -48,7 +48,7 @@ Visualization of refraction through a parallel-sided slab, including Snell's law
 
 Visualization of refraction through a prism, angular deviation, minimum deviation, refractive index, and dispersion of white light.
 
-**[▶ Watch Animation](YOUR_GOOGLE_DRIVE_LINK)**
+**[▶ Watch Animation](https://drive.google.com/file/d/18YLgr007aJLkgjJKAUZEbx9PyI639tnT/view?usp=drive_link)**
 
 ---
 
@@ -56,7 +56,7 @@ Visualization of refraction through a prism, angular deviation, minimum deviatio
 
 Visualization of electromagnetic wave polarization, polarizers, analyzers, polarization angle, and the variation of transmitted intensity described by Malus's law.
 
-**[▶ Watch Animation](YOUR_GOOGLE_DRIVE_LINK)**
+**[▶ Watch Animation](https://drive.google.com/file/d/1HxiGmGjsZhF5fDw5UfUCKkKde0iu0gfd/view?usp=drive_link)**
 
 ---
 
@@ -64,7 +64,7 @@ Visualization of electromagnetic wave polarization, polarizers, analyzers, polar
 
 Visualization of polarization states produced by combining perpendicular electric-field components with different phase relationships, including linear, circular, and elliptical polarization.
 
-**[▶ Watch Animation](YOUR_GOOGLE_DRIVE_LINK)**
+**[▶ Watch Animation](https://drive.google.com/file/d/1S2iBWHOX5CxQtdzYh6aAmaYL5UxorI13/view?usp=drive_link)**
 
 ---
 
@@ -76,7 +76,7 @@ A three-part visualization covering the fundamental processes behind laser opera
 
 The animation covers absorption, spontaneous emission, stimulated emission, population inversion, optical amplification, and cavity feedback.
 
-**[▶ Watch Animation](YOUR_GOOGLE_DRIVE_LINK)**
+**[▶ Watch Animation](https://drive.google.com/file/d/1CB3ktJAEUfZkIg8k4zh5t8lbeYc_MPoG/view?usp=drive_link)**
 
 ---
 
@@ -86,7 +86,7 @@ The animation covers absorption, spontaneous emission, stimulated emission, popu
 
 Visualization of light propagating from a point source, expanding spherical wavefronts, the spherical-to-plane-wave approximation, and Huygens' principle.
 
-**[▶ Watch Animation](YOUR_GOOGLE_DRIVE_LINK)**
+**[▶ Watch Animation](https://drive.google.com/file/d/1VNzmuD5QbLzhr8FuaR2fLjaS3QOAze9C/view?usp=drive_link)**
 
 ---
 
@@ -94,7 +94,7 @@ Visualization of light propagating from a point source, expanding spherical wave
 
 A continuous visualization following wave propagation through multiple phenomena, including diffraction, reflection, and refraction.
 
-**[▶ Watch Animation](YOUR_GOOGLE_DRIVE_LINK)**
+**[▶ Watch Animation](https://drive.google.com/file/d/1-wGPhyIXz8b8bqEr7KXhD8H1-VJ_ooie/view?usp=drive_link)**
 
 ---
 
@@ -102,7 +102,7 @@ A continuous visualization following wave propagation through multiple phenomena
 
 Visualization of travelling-wave parameters including amplitude, wavelength, wave number, frequency, angular frequency, phase, and phase velocity, followed by superposition and more complex wave behaviour.
 
-**[▶ Watch Animation](YOUR_GOOGLE_DRIVE_LINK)**
+**[▶ Watch Animation](https://drive.google.com/file/d/13s6MVgNcu-tDEiVYBpc_n_cKBZQx-Rl6/view?usp=drive_link)**
 
 ---
 
@@ -110,7 +110,7 @@ Visualization of travelling-wave parameters including amplitude, wavelength, wav
 
 Visualization of phase difference, constructive and destructive interference, resultant waves, and Young's double-slit experiment.
 
-**[▶ Watch Animation](YOUR_GOOGLE_DRIVE_LINK)**
+**[▶ Watch Animation](https://drive.google.com/file/d/1E5vcHvhT0T0cCavoaF8jZxHc8jEuoCcV/view?usp=drive_link)**
 
 ---
 

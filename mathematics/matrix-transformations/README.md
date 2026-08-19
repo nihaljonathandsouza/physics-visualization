@@ -27,17 +27,17 @@ $$
 
 the determinant is
 
-\[
+$$
 \det(A)=ad-bc.
-\]
+$$
 
 The determinant gives the area-scaling factor of the transformation.
 
 The inverse transformation satisfies
 
-\[
+$$
 A^{-1}A=I.
-\]
+$$
 
 The visualization also demonstrates how the columns of a transformation matrix determine where the basis vectors are mapped.
 

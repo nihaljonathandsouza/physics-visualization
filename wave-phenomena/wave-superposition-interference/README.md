@@ -1,56 +1,60 @@
 # Wave Superposition & Interference
 
-A Manim-based visualization connecting the mathematical principle of superposition with physical wave interference and Young's double-slit experiment.
-
-## Overview
-
-The animation begins with the mathematical description of two travelling waves and their resultant displacement. The phase difference is then varied to demonstrate constructive, destructive, and intermediate interference.
-
-The visualization subsequently connects this mathematical treatment to Young's double-slit experiment, showing how waves emerging from two slits produce an interference pattern.
+A Manim-based visualization of wave superposition, phase difference, interference, and Young's double-slit experiment.
 
 ## Concepts Visualized
 
-* Principle of superposition
-* Travelling wave equations
-* Phase difference
-* Constructive interference
-* Destructive interference
-* Resultant wave displacement
-* Young's double-slit experiment
-* Wavefront propagation from two coherent sources
-* Interference pattern formation
+- Principle of superposition
+- Phase difference
+- Constructive interference
+- Destructive interference
+- Resultant wave
+- Coherent sources
+- Young's double-slit experiment
+- Interference pattern
 
-## Mathematical Model
+## Overview
 
-The two waves are represented as:
+The animation begins by representing two waves and their resultant displacement.
+
+The phase difference between the waves is varied to demonstrate constructive and destructive interference and the different resultant waveforms produced by their superposition.
+
+The visualization then connects the mathematical treatment of superposition to Young's double-slit experiment, showing how waves from two sources produce an interference pattern.
+
+## Mathematics
+
+The component waves are represented as:
 
 $$
 y_1 = A\sin(kx-\omega t)
 $$
 
+and
+
 $$
 y_2 = A\sin(kx-\omega t+\phi)
 $$
 
-Their resultant displacement is:
+The resultant displacement follows the principle of superposition:
 
 $$
-y_R = y_1+y_2
+y_R = y_1 + y_2
 $$
 
-The animation dynamically varies the phase difference $\phi$ to demonstrate the transition between constructive and destructive interference.
+The phase difference $\phi$ determines the relationship between the two waves and therefore affects the resulting interference.
+
+## Teaching Focus
+
+The animation connects the mathematical idea of adding wave displacements to the physical phenomenon of interference.
+
+It provides a visual transition from individual waves and phase difference to the interference pattern produced by two coherent sources.
 
 ## Implementation
 
-**Software:** Python, Manim Community Edition
+**Software:** Python, Manim Community Edition, NumPy
 
-The visualization uses dynamic mathematical plots, `ValueTracker` objects, continuously updated waveforms, vector arrows, mathematical labels, and animated transformations to connect the mathematical and physical descriptions of interference.
+The animation uses dynamically plotted waveforms, phase-dependent transformations, vector representations, mathematical expressions, and geometric constructions to visualize interference.
 
-## Preview
+## Visualization
 
-The rendered animation is included in this directory.
-
-## Note
-
-This is a conceptual visualization intended to illustrate the mathematical and physical principles of wave interference.
-
+[▶ Watch the animation](https://drive.google.com/file/d/1E5vcHvhT0T0cCavoaF8jZxHc8jEuoCcV/view?usp=sharing)

@@ -68,4 +68,4 @@ Vector methods are fundamental to describing electromagnetic fields, propagation
 
 ## Visualization
 
-[Watch the animation](./vector-geometry.mp4)
+[Watch the animation](https://drive.google.com/file/d/1a1kOikJf-yQDKQJJOefM5NsDa-9ke-Yy/view?usp=sharing)

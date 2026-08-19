@@ -22,21 +22,21 @@ The visualization demonstrates that, for a parallel-sided slab, the emergent ray
 
 The animation dynamically evaluates the refracted angle using Snell's law:
 
-[
-n_1\sin\theta_1 = n_2\sin\theta_2
-]
+$$
+n_1 \sin\theta_1 = n_2 \sin\theta_2
+$$
 
 The lateral displacement is calculated as:
 
-[
+$$
 d = \frac{t\sin(\theta_1-\theta_2)}{\cos\theta_2}
-]
+$$
 
-The visualization also demonstrates the relationship:
+The visualization also demonstrates the relationship between refractive index and light velocity:
 
-[
+$$
 v = \frac{c}{n}
-]
+$$
 
 ## Implementation
 

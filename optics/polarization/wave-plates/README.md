@@ -54,4 +54,4 @@ The animation was created programmatically using vector representations, paramet
 
 ## Visualization
 
-[▶ Watch the animation](YOUR_GOOGLE_DRIVE_LINK)
+[▶ Watch the animation](https://drive.google.com/file/d/1S2iBWHOX5CxQtdzYh6aAmaYL5UxorI13/view?usp=sharing)

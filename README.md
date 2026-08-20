@@ -102,7 +102,7 @@ A continuous visualization following wave propagation through multiple phenomena
 
 Visualization of travelling-wave parameters including amplitude, wavelength, wave number, frequency, angular frequency, phase, and phase velocity, followed by superposition and more complex wave behaviour.
 
-**[▶ Watch Animation](https://drive.google.com/file/d/13s6MVgNcu-tDEiVYBpc_n_cKBZQx-Rl6/view?usp=drive_link)**
+**[▶ Watch Animation](https://drive.google.com/file/d/1cOVLyyJeEldycqnMcW-7mBjMsCKMWGZO/view?usp=sharing)**
 
 ---
 
